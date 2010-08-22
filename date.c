@@ -4,7 +4,7 @@
 
 void
 usage() {
-	fprint(2, "usage: %s [-z zone]\n");
+	fprint(2, "usage: 8601/date [-z zone]\n");
 	exits("usage");
 }
 
